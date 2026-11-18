@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1791949006 source:c:\users\orin\downloads\lab class 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1794972720 source:d:\8th semester\compiler design\mid lab\lab class 2\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
